@@ -27,8 +27,11 @@ Press `q` with the Camera window focused to quit.
 ## Config
 
 Webcam -> `cv.VideoCapture(1)`, use the index of your camera usually 0 or 1
+
 Left hand use -> change `rest = R.fromEuler(...)` to `R.identity()`
+
 3D model -> `mesh = examples.download_bunny()`, load your own, e.g. `pv.read("model.stl")`
+
 Smoothing -> Modify `alpha=0.3`, lower is steadier but lags more, higher is more responsive but jittier
 
 
