@@ -22,7 +22,7 @@ python main.py
 
 Face your hand palm forward to your webcam at about half a meter away. Rotate your hand about your wrist and watch the model follow. 
 
-Press `q` with the Camera window focused to quit.
+Press `q` to quit the application.
 
 ## Config
 
