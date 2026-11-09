@@ -1,4 +1,4 @@
-# hand-3d-controller
+# Hand 3D Controller
 
 Rotate a 3D model with your hand. Pipeline feeds OpenCV webcam data into the mediapipe [Hand Landmarker model](https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker). The hand landmarkers are then processed into Quaternions to calculate model orientation, and finally passed to the PyVista visualizer.
 
