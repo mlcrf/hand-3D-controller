@@ -12,7 +12,6 @@ from pyvista import examples
 import pyvistaqt as pvqt
 
 # Extra
-import math
 from scipy.spatial.transform import Rotation as R
 import numpy as np
 
